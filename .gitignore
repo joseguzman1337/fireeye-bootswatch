@@ -4,3 +4,7 @@ node_modules
 build
 _site
 *.lock
+
+# macOS system files
+.DS_Store
+._*
