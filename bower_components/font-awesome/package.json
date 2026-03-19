@@ -38,6 +38,6 @@
     }
   ],
   "dependencies": {
-    "less": "1.4.2"
+    "less": "4.6.4"
   }
 }
